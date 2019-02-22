@@ -60,10 +60,10 @@ other (so are not proper "unit tests"), and can be run one-at-a-time using
 
 ## Talk Information
 
-PyTennessee 2019
-February 9-10, 2019
-Nashville TN
-Sunday 2PM, Auditorium
+PyTennessee 2019  
+February 9-10, 2019  
+Nashville TN  
+Sunday 2PM, Auditorium  
 
 ### Abstract
 
