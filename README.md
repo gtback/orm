@@ -60,6 +60,13 @@ other (so are not proper "unit tests"), and can be run one-at-a-time using
 
 ## Talk Information
 
+PyOhio 2019
+July 27-28, 2019
+Columbus OH
+Sunday 3:15PM, Hays Cape
+
+---
+
 PyTennessee 2019  
 February 9-10, 2019  
 Nashville TN  
